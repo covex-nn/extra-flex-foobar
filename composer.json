@@ -1,0 +1,9 @@
+{
+    "name": "covex-nn/extra-flex-foobar",
+    "description": "Test package for covex-nn/extra-flex",
+    "type": "library",
+    "license": "MIT",
+    "extra": {
+        "recipe-dir": ".flex"
+    }
+}
